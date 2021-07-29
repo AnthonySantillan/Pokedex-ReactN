@@ -47,8 +47,7 @@ const Pokemons = ({ navigation }) => {
     <View style={{ backgroundColor: 'deepskyblue' }}>
       <TouchableOpacity
         style={styles.pokeball}
-        activeOpacity={0.5}
-        onPress={() => navigation.navigate('Profile')}>
+        activeOpacity={0.5}>
         <Image
           source={require('../assests/pokeball2.png')}
           style={{ width: 45, height: 45 }}
