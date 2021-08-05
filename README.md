@@ -1,1 +1,3 @@
-App fin izi 
+
+APP POKEDEX MOVIL
+
